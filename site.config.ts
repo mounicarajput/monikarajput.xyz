@@ -9,7 +9,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Hey,this is Monika 👋',
-  domain: process.env.NEXT_PUBLIC_DOMAIN || 'amanin.tech',
+  domain: process.env.NEXT_PUBLIC_DOMAIN || 'monikarajput.xyz',
   author: 'Monika Rajput',
   // open graph metadata (optional)
   description: '🚀 Data Engineer',
@@ -18,7 +18,7 @@ export default siteConfig({
   twitter: 'mounicarajput',
   github: 'mounicarajput',
   linkedin: 'mounicarajput',
-  newsletter: 'http://newsletter.amanin.tech', // optional newsletter URL
+  //newsletter: 'http://newsletter.amanin.tech', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
@@ -51,7 +51,7 @@ export default siteConfig({
    navigationStyle: 'custom',
    navigationLinks: [
    {
-       title: '🛠 blog',
+       title: ' blog',
        pageId: '24e8e3b2631a4c1e900e6e1b0ef98a0d'
      },
     {
