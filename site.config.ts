@@ -47,7 +47,7 @@ export default siteConfig({
    navigationStyle: 'custom',
    navigationLinks: [
    {
-       title: '📚 Blog',
+       title: '📝 Blog',
        pageId: '24e8e3b2631a4c1e900e6e1b0ef98a0d'
      },
     {
@@ -55,7 +55,7 @@ export default siteConfig({
        pageId: '4645e64954174d97915765ce29dcedad'
      },
 {
-       title: '🧭 Books',
+       title: '📚Books',
        pageId: 'a2ecd41f0744464cac1d3e634b756178'
      },
 {
