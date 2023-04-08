@@ -39,10 +39,7 @@ export default siteConfig({
   // any pages defined here will override their default URL paths
   // example:
   //
-   pageUrlOverrides: {
-     '/call': 'a13f0d8b3898412a947a24c08d7f5139',
-  //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
-   },
+
   //pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
