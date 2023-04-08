@@ -56,17 +56,15 @@ export default siteConfig({
      },
     {
        title: '🛠 Work',
-       pageId: 'b4a0d2616e1c47468203aea9638a702c'
+       pageId: '4645e64954174d97915765ce29dcedad'
      },
-
-
 {
-       title: '🧭 Life',
-       pageId: 'a04f53e1ed404e60b44d60c3a52d8f2e'
+       title: '🧭 Books',
+       pageId: 'a2ecd41f0744464cac1d3e634b756178'
      },
 {
        title: '📞 Connect',
-       pageId: 'a13f0d8b3898412a947a24c08d7f5139'
+       pageId: 'f00f555c4cf94d609aff0a3d784f1407'
      }]
 
 })
