@@ -41,14 +41,13 @@ export default siteConfig({
   //
 
   //pageUrlOverrides: null,
-
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
   //navigationStyle: 'default'
    navigationStyle: 'custom',
    navigationLinks: [
    {
-       title: ' blog',
+       title: '📚 Blog',
        pageId: '24e8e3b2631a4c1e900e6e1b0ef98a0d'
      },
     {
